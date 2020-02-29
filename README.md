@@ -6,7 +6,7 @@ The [LimeRFE](https://www.crowdsupply.com/lime-micro/limerfe) is an open hardwar
 
 ## Pre-production boards.
 
-If you have a pre-production board (0v3 or 1v0 hardware), please see the [LimeRFE repository]( under `/archived/` for the corresponding firmware.
+If you have a pre-production board (0v3 or 1v0 hardware), please see the [LimeRFE repository](https://github.com/myriadrf/LimeRFE) under `/archived/` for the corresponding firmware.
 
 ## Licensing
 
